@@ -301,6 +301,7 @@ A collection of awesome things regarding React ecosystem.
 ##### Authentication
 * [Adding authentication to your React Flux app](https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/)
 * [Build a React Application with User Authentication](https://stormpath.com/blog/build-a-react-app-with-user-authentication/)
+* [Build User Registration with Node, React, and Okta] (https://developer.okta.com/blog/2018/02/06/build-user-registration-with-node-react-and-okta)
 
 ##### Authorization
 * [Managing user permissions in your React app](https://medium.com/dailyjs/managing-user-permissions-in-your-react-app-a93a94ff9b40)
